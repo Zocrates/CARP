@@ -1,2 +1,4 @@
 # CARP
-Capacited arc routing problem
+
+This is a project solving Capacited arc routing problem.
+It used Floyd algorithm and pathScan method.
